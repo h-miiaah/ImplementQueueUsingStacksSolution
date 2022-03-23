@@ -47,5 +47,5 @@ MyQueue.prototype.empty = function() {
  * The push method adds an element to the end of the array.
  * The pop method removes the first element from the array and returns it.
  * The peek method returns the first element from the array but does not remove it.
- * 
+ * The empty method returns a boolean indicating whether the array is empty.
  */
