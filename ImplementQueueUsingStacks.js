@@ -1,6 +1,6 @@
 
 var MyQueue = function() {
-    
+    this.queue = []
 };
 
 /** 
