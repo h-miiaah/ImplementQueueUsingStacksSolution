@@ -22,7 +22,7 @@ MyQueue.prototype.pop = function() {
  * @return {number}
  */
 MyQueue.prototype.peek = function() {
-    
+    return this.queue[0]
 };
 
 /**
