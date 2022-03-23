@@ -43,5 +43,6 @@ MyQueue.prototype.empty = function() {
 
 
 /**
+ * The constructor function creates an empty array.
  * 
  */
