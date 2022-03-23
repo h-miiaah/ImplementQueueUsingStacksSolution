@@ -40,3 +40,8 @@ MyQueue.prototype.empty = function() {
  * var param_3 = obj.peek()
  * var param_4 = obj.empty()
  */
+
+
+/**
+ * 
+ */
