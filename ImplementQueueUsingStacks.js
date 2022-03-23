@@ -44,5 +44,6 @@ MyQueue.prototype.empty = function() {
 
 /**
  * The constructor function creates an empty array.
+ * The push method adds an element to the end of the array.
  * 
  */
